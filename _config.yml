@@ -1,16 +1,16 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Imjoon Ha
+description: Blogging about Developing Software
+meta_description: "Blogging about Developing Software"
 
 markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'conquernos.github.io'
+google_analytics: 'UA-137476599-1'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'blog url'
+url:            'https://conquernos.github.io'
 author:         'Your Name'
