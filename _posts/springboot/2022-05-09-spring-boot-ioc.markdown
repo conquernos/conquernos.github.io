@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Spring boot IoC"
+categories: Java SpringBoot
+---
+
 ### Bean
 - Spring IoC Container 가 관리하는 object
 - Spring Bean 저장소에 저장해놓고 사용
